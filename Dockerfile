@@ -1,4 +1,4 @@
-FROM nanoservice/protobuf:3.0-alpha
+FROM jsongo/protobuf
 
 MAINTAINER jsongo <jsongo@qq.com>
 
