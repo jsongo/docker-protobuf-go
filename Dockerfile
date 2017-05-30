@@ -2,6 +2,7 @@ FROM jsongo/protobuf
 
 MAINTAINER jsongo <jsongo@qq.com>
 
+RUN apk update
 RUN apk add --update go
 RUN apk add --update git
 
